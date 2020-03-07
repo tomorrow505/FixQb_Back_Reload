@@ -28,3 +28,5 @@ cd ..                       返回上一级目录
 ```
 
 ![拷贝种子](https://s2.ax1x.com/2020/03/07/3XBKoV.png)
+
+![操作界面](https://s2.ax1x.com/2020/03/07/3jk9BV.png)
