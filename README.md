@@ -1,7 +1,7 @@
 # FixQb_Back_Reload
 qbittorrent备份迁移降级跳检
 
-### 傻瓜教程——Linux版本，首先qbittorrent开启webui. SSH登入机器。以xshell为例：
+### 傻瓜教程——Linux版本，首先qbittorrent开启webui. SSH登入机器。以xshell连接Ubuntu系统为例：
 
 #### 下载：
 
