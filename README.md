@@ -1,2 +1,0 @@
-# FixQb_Back_Reload
-qbittorrent备份迁移降级跳检
